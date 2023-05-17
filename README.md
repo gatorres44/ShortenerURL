@@ -24,7 +24,7 @@ git clone https://github.com/gatorres44/ShortenerURL.git
 3. Mova para o diretório do projeto:
 
 ```bash
-cd ShortenerURL/appEncurtadorURL
+cd ShortenerURL/
 ```
 4. execute o arquivo main.py:
 
